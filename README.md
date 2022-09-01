@@ -1,6 +1,6 @@
 ### Olá 👋
 ### Eu sou Alana Filgueiras, tenho 31 anos e sou formada em Sistemas de Informação:computer:. Antigamente achava que queria estudar cinema.
-* :pushpin: Hoje em dia trabalho no ramo comércial.
+* :pushpin: Hoje em dia trabalho no ramo comercial.
 * :white_check_mark: Fiz alguns cursos como PHP, Banco de Dados e AWS para iniciantes.
 * :arrow_forward: Atualmente estudando na Digital College e na Veecode.
 * :blue_book: Gosto bastante de ler e um livro para indicar "EXTRAORDINÁRIO".
