@@ -19,6 +19,11 @@ No local de transmissão, um **espelho parabólico côncavo** é usado ​​par
 ### A tecnologia 3D e seus benefícios para o mundo atual
 ***Saúde***: Possibilita a realização de diagnósticos e tratamentos mais seguros e eficientes. Neste cenário, destacam-se técnicas como planejamento cirúrgico virtual, réplicas de partes do corpo, próteses e implantes.
 
-***Entretenimento***: A indústria de jogos, cinema e televisão explora há bastante tempo as projeções tridimensionais para criar personagens fictícios. O 3D modificou o jeito de fazer cinema tv, apesar de hoje estar em pouco uso, essa tecnologia abriu portas para novas tecnologias ainda mais modernas. Quem não lembra de AVATAR? 
-
+***Entretenimento***: A indústria de jogos, cinema e televisão explora há bastante tempo as projeções tridimensionais para criar personagens fictícios. O 3D modificou o jeito de fazer cinema, e televisão.
 ***Informática***: Realidade Aumentada, satélites.
+
+![alt-text](https://i.pinimg.com/originals/4e/28/60/4e28609e3b7a3f00428b31b4d99b430b.gif)
+
+Quem não lembra de AVATAR? 
+
+
