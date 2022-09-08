@@ -1,6 +1,6 @@
 ##  <p align="center"> Valerie Thomas :crown:</p>
 
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Valerie_L._Thomas_standing_with_a_stack_of_early_Landsat_Computer_Compatible_Tapes.jpg/367px-Valerie_L._Thomas_standing_with_a_stack_of_early_Landsat_Computer_Compatible_Tapes.jpg" width="150" height="200" /></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Valerie_L._Thomas_standing_with_a_stack_of_early_Landsat_Computer_Compatible_Tapes.jpg/367px-Valerie_L._Thomas_standing_with_a_stack_of_early_Landsat_Computer_Compatible_Tapes.jpg" width="250" height="300" /></p>
 
 Nascida em Baltimore, Maryland no dia 8 de fevereiro de 1943, Valerie LaVerne Thomas, uma cientista e inventora afro-americana ficou conhecida pela invenção do aparelho transmissor de ilusão - um dispositivo capaz de criar, transmitir e receber imagens 3D digitalmente de um objeto em tempo real.
 
@@ -9,7 +9,7 @@ Nascida em Baltimore, Maryland no dia 8 de fevereiro de 1943, Valerie LaVerne Th
 * Analista de Dados na [Nasa](https://www.nasa.gov/) na década de 60.
 * :satellite: Valerie  ajudou a desenvolver o sistema de processamento de imagem para o Landsat da NASA na década de 1970 para coletar informações sobre os recursos naturais da Terra.
 * :seedling:Liderou de 1974 a 1978 o projeto LACIE (Largie Area Crop Inventory Experiment) o objetivo era ter uma estivativa da produção de trigo em todo globo terrestre assim diminuindo a fome.
-* :books: Inventou o transmissor de ilusão em 1978 e em 1980 recebeu a patente.
+* :books: Inventou o transmissor de ilusã 3D o em 1978 e em 1980 recebeu a patente.
 * :rocket:Antes de se **aposentar em 1995**, a física **criou** um programa de computador que permitiu aos cientistas **estudar o cometa Halley,**  **a camada de ozônio, satélites** e ainda apoiar a criação da espaçonave Voyager, ainda em estudo, com sondas interestelares robóticas.
 ### O que despertou a curiosidade de Valerie?
 Em uma exposição um experimento em específico a intrigou, uma **lâmpada incandescente**  **que**  **permanecia acesa** mesmo após ser desenroscada da boquilha. Ela analisou o experimento e, conversando com o projetista, descobriu que a experiência era feita com o uso de **espelhos côncavos**.
@@ -22,8 +22,11 @@ No local de transmissão, um **espelho parabólico côncavo** é usado ​​par
 ***Entretenimento***: A indústria de jogos, cinema e televisão explora há bastante tempo as projeções tridimensionais para criar personagens fictícios. O 3D modificou o jeito de fazer cinema, e televisão.
 ***Informática***: Realidade Aumentada, satélites.
 
-![alt-text](https://i.pinimg.com/originals/4e/28/60/4e28609e3b7a3f00428b31b4d99b430b.gif)
+<p align="center"><img src="https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/15699_A429F3629477FA36.jpg?w=876&h=484&crop=1" width="350" height="300"/></p>
 
-Quem não lembra de AVATAR? 
+<p align="center">Quem não lembra de AVATAR? 
+
+
+
 
 
