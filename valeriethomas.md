@@ -28,7 +28,7 @@ No local de transmissão, um **espelho parabólico côncavo** é usado ​​par
  
 <p align="center"><img src= "https://www.pacesconnection.com/fileSendAction/fcType/0/fcOid/511921641387094088/filePointer/511921641387094242/fodoid/511921641387094239/imageType/MEDIUM/inlineImage/true/mceclip0.png" width="250" height="300" ></p>
  
-Valerie Thomas hoje tem 79 anos e ainda contribui para o mundo acadêmico. Orienta jovens estudantes por meio da National Technical Association, da Science Mathematics Aerospace Research and Technology e do capítulo SHADES OF BLUE do Distrito de Columbia, Maryland
+Valerie Thomas hoje tem 79 anos e ainda contribui para o mundo acadêmico. Orienta jovens estudantes por meio da National Technical Association, da Science Mathematics Aerospace Research and Technology.
  
 
 
