@@ -22,9 +22,15 @@ No local de transmissão, um **espelho parabólico côncavo** é usado ​​par
 ***Entretenimento***: A indústria de jogos, cinema e televisão explora há bastante tempo as projeções tridimensionais para criar personagens fictícios. O 3D modificou o jeito de fazer cinema, e televisão.
 ***Informática***: Realidade Aumentada, satélites.
 
-<p align="center"><img src="https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/15699_A429F3629477FA36.jpg?w=876&h=484&crop=1" width="350" height="300"/></p>
+<p align="center"><img src="https://c.tenor.com/sjVi2TBf49QAAAAC/avatar-movie.gif" width="350" height="250"/></p>
 
 <p align="center">Quem não lembra de AVATAR? 
+ 
+<p align="center"><img src= "https://www.pacesconnection.com/fileSendAction/fcType/0/fcOid/511921641387094088/filePointer/511921641387094242/fodoid/511921641387094239/imageType/MEDIUM/inlineImage/true/mceclip0.png" width="250" height="300" ></p>
+ 
+Valerie Thomas hoje tem 79 anos e ainda contribui para o mundo acadêmico. Orienta jovens estudantes por meio da National Technical Association, da Science Mathematics Aerospace Research and Technology e do capítulo SHADES OF BLUE do Distrito de Columbia, Maryland
+ 
+
 
 
 
