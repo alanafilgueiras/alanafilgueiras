@@ -1,5 +1,5 @@
 ### Olá👋,eu sou Alana Filgueiras, 
-##### tenho 31 anos e sou formada em :computer: Sistemas de Informação na Estácio de Sá em 2016.
+##### tenho 32 anos e sou formada em :computer: Sistemas de Informação na Estácio de Sá em 2016.
 
 * :pushpin: Hoje em dia trabalho no ramo comercial.
 * :white_check_mark: Fiz alguns cursos como PHP, Banco de Dados e AWS para iniciantes.
